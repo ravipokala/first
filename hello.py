@@ -1,5 +1,4 @@
-def say_hello(name):
-    print(f"Hello {name}, How are you")
+print("Hello World!!, how are you")
 
 name = "Ravi"
 say_hello(name)
